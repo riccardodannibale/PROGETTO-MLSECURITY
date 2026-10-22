@@ -16,7 +16,7 @@ Riccardo D'Annibale and Fabrizio Giuseppe Mazzilli
 
 Our objective is **evaluation**, not to build or execute malware. All payloads are synthetic and inert. The CNNs are original models from the GHRP/STL10 model zoo; their numerical weights are used as the analysis unit.
 
-## At a glance
+## Overview
 
 | Experiment | Design | Key result | Evidence |
 |---|---|---|---|
